@@ -4,4 +4,6 @@ include:
   - board: nice_nano
     shield: kometa_right
   - board: nice_nano
+    shield: kometa_dongle
+  - board: nice_nano
     shield: settings_reset
